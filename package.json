@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "node application like the online store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lagilles/bamazon.git"
+  },
+  "author": "laura gillespie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lagilles/bamazon/issues"
+  },
+  "homepage": "https://github.com/lagilles/bamazon#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
